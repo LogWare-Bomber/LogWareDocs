@@ -1,21 +1,23 @@
-Usage
+Calling
 =====
 
-.. _installation:
+.. _prebuiltcalls:
 
-Installation
+Prebuilt Calls
 ------------
 
-To use Lumache, first install it using pip:
+LogWare OTP comes with various high quality presets for the most popular targets.
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   /PayPal - PayPal reset
+   More coming soon... Please suggest what we should add
 
-Creating recipes
+
+PGP Calls
 ----------------
 
-To retrieve a list of random ingredients,
+**PLACEHOLDER**
 you can use the ``lumache.get_random_ingredients()`` function:
 
 .. autofunction:: lumache.get_random_ingredients
@@ -31,4 +33,4 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
-
+**PLACEHOLDER**
